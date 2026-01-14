@@ -1,0 +1,460 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\web_api_1771020152\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3A22DD98-B01A-4FCF-8532-73728D55C555}|web_api_1771020152\\web_api_1771020152.csproj|c:\\web_api_1771020152\\web_api_1771020152\\app_start\\swaggerconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3A22DD98-B01A-4FCF-8532-73728D55C555}|web_api_1771020152\\web_api_1771020152.csproj|solutionrelative:web_api_1771020152\\app_start\\swaggerconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A22DD98-B01A-4FCF-8532-73728D55C555}|web_api_1771020152\\web_api_1771020152.csproj|C:\\web_api_1771020152\\web_api_1771020152\\controllers\\reservationscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3A22DD98-B01A-4FCF-8532-73728D55C555}|web_api_1771020152\\web_api_1771020152.csproj|solutionrelative:web_api_1771020152\\controllers\\reservationscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A22DD98-B01A-4FCF-8532-73728D55C555}|web_api_1771020152\\web_api_1771020152.csproj|C:\\web_api_1771020152\\web_api_1771020152\\filters\\wtauthenticationattribute.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3A22DD98-B01A-4FCF-8532-73728D55C555}|web_api_1771020152\\web_api_1771020152.csproj|solutionrelative:web_api_1771020152\\filters\\wtauthenticationattribute.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A22DD98-B01A-4FCF-8532-73728D55C555}|web_api_1771020152\\web_api_1771020152.csproj|C:\\web_api_1771020152\\web_api_1771020152\\migrations\\202601130852135_adddatetoreservation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3A22DD98-B01A-4FCF-8532-73728D55C555}|web_api_1771020152\\web_api_1771020152.csproj|solutionrelative:web_api_1771020152\\migrations\\202601130852135_adddatetoreservation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A22DD98-B01A-4FCF-8532-73728D55C555}|web_api_1771020152\\web_api_1771020152.csproj|C:\\web_api_1771020152\\web_api_1771020152\\migrations\\configuration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3A22DD98-B01A-4FCF-8532-73728D55C555}|web_api_1771020152\\web_api_1771020152.csproj|solutionrelative:web_api_1771020152\\migrations\\configuration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A22DD98-B01A-4FCF-8532-73728D55C555}|web_api_1771020152\\web_api_1771020152.csproj|C:\\web_api_1771020152\\web_api_1771020152\\models\\reservation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3A22DD98-B01A-4FCF-8532-73728D55C555}|web_api_1771020152\\web_api_1771020152.csproj|solutionrelative:web_api_1771020152\\models\\reservation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A22DD98-B01A-4FCF-8532-73728D55C555}|web_api_1771020152\\web_api_1771020152.csproj|C:\\web_api_1771020152\\web_api_1771020152\\migrations\\202601130804391_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3A22DD98-B01A-4FCF-8532-73728D55C555}|web_api_1771020152\\web_api_1771020152.csproj|solutionrelative:web_api_1771020152\\migrations\\202601130804391_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A22DD98-B01A-4FCF-8532-73728D55C555}|web_api_1771020152\\web_api_1771020152.csproj|C:\\web_api_1771020152\\web_api_1771020152\\controllers\\menuitemscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3A22DD98-B01A-4FCF-8532-73728D55C555}|web_api_1771020152\\web_api_1771020152.csproj|solutionrelative:web_api_1771020152\\controllers\\menuitemscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A22DD98-B01A-4FCF-8532-73728D55C555}|web_api_1771020152\\web_api_1771020152.csproj|C:\\web_api_1771020152\\web_api_1771020152\\app_start\\webapiconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3A22DD98-B01A-4FCF-8532-73728D55C555}|web_api_1771020152\\web_api_1771020152.csproj|solutionrelative:web_api_1771020152\\app_start\\webapiconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A22DD98-B01A-4FCF-8532-73728D55C555}|web_api_1771020152\\web_api_1771020152.csproj|C:\\web_api_1771020152\\web_api_1771020152\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3A22DD98-B01A-4FCF-8532-73728D55C555}|web_api_1771020152\\web_api_1771020152.csproj|solutionrelative:web_api_1771020152\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A22DD98-B01A-4FCF-8532-73728D55C555}|web_api_1771020152\\web_api_1771020152.csproj|C:\\web_api_1771020152\\web_api_1771020152\\models\\loginresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3A22DD98-B01A-4FCF-8532-73728D55C555}|web_api_1771020152\\web_api_1771020152.csproj|solutionrelative:web_api_1771020152\\models\\loginresponsedto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A22DD98-B01A-4FCF-8532-73728D55C555}|web_api_1771020152\\web_api_1771020152.csproj|C:\\web_api_1771020152\\web_api_1771020152\\models\\logindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3A22DD98-B01A-4FCF-8532-73728D55C555}|web_api_1771020152\\web_api_1771020152.csproj|solutionrelative:web_api_1771020152\\models\\logindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A22DD98-B01A-4FCF-8532-73728D55C555}|web_api_1771020152\\web_api_1771020152.csproj|C:\\web_api_1771020152\\web_api_1771020152\\models\\registerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3A22DD98-B01A-4FCF-8532-73728D55C555}|web_api_1771020152\\web_api_1771020152.csproj|solutionrelative:web_api_1771020152\\models\\registerdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A22DD98-B01A-4FCF-8532-73728D55C555}|web_api_1771020152\\web_api_1771020152.csproj|C:\\web_api_1771020152\\web_api_1771020152\\models\\reservationitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3A22DD98-B01A-4FCF-8532-73728D55C555}|web_api_1771020152\\web_api_1771020152.csproj|solutionrelative:web_api_1771020152\\models\\reservationitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A22DD98-B01A-4FCF-8532-73728D55C555}|web_api_1771020152\\web_api_1771020152.csproj|C:\\web_api_1771020152\\web_api_1771020152\\models\\menuitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3A22DD98-B01A-4FCF-8532-73728D55C555}|web_api_1771020152\\web_api_1771020152.csproj|solutionrelative:web_api_1771020152\\models\\menuitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A22DD98-B01A-4FCF-8532-73728D55C555}|web_api_1771020152\\web_api_1771020152.csproj|C:\\web_api_1771020152\\web_api_1771020152\\models\\table.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3A22DD98-B01A-4FCF-8532-73728D55C555}|web_api_1771020152\\web_api_1771020152.csproj|solutionrelative:web_api_1771020152\\models\\table.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A22DD98-B01A-4FCF-8532-73728D55C555}|web_api_1771020152\\web_api_1771020152.csproj|C:\\web_api_1771020152\\web_api_1771020152\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3A22DD98-B01A-4FCF-8532-73728D55C555}|web_api_1771020152\\web_api_1771020152.csproj|solutionrelative:web_api_1771020152\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A22DD98-B01A-4FCF-8532-73728D55C555}|web_api_1771020152\\web_api_1771020152.csproj|C:\\web_api_1771020152\\web_api_1771020152\\models\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3A22DD98-B01A-4FCF-8532-73728D55C555}|web_api_1771020152\\web_api_1771020152.csproj|solutionrelative:web_api_1771020152\\models\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A22DD98-B01A-4FCF-8532-73728D55C555}|web_api_1771020152\\web_api_1771020152.csproj|C:\\web_api_1771020152\\web_api_1771020152\\app_start\\bundleconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3A22DD98-B01A-4FCF-8532-73728D55C555}|web_api_1771020152\\web_api_1771020152.csproj|solutionrelative:web_api_1771020152\\app_start\\bundleconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A22DD98-B01A-4FCF-8532-73728D55C555}|web_api_1771020152\\web_api_1771020152.csproj|C:\\web_api_1771020152\\web_api_1771020152\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{3A22DD98-B01A-4FCF-8532-73728D55C555}|web_api_1771020152\\web_api_1771020152.csproj|solutionrelative:web_api_1771020152\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A22DD98-B01A-4FCF-8532-73728D55C555}|web_api_1771020152\\web_api_1771020152.csproj|C:\\web_api_1771020152\\web_api_1771020152\\packages.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{3A22DD98-B01A-4FCF-8532-73728D55C555}|web_api_1771020152\\web_api_1771020152.csproj|solutionrelative:web_api_1771020152\\packages.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A22DD98-B01A-4FCF-8532-73728D55C555}|web_api_1771020152\\web_api_1771020152.csproj|C:\\web_api_1771020152\\web_api_1771020152\\web.release.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{3A22DD98-B01A-4FCF-8532-73728D55C555}|web_api_1771020152\\web_api_1771020152.csproj|solutionrelative:web_api_1771020152\\web.release.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3A22DD98-B01A-4FCF-8532-73728D55C555}|web_api_1771020152\\web_api_1771020152.csproj|C:\\web_api_1771020152\\web_api_1771020152\\web.debug.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{3A22DD98-B01A-4FCF-8532-73728D55C555}|web_api_1771020152\\web_api_1771020152.csproj|solutionrelative:web_api_1771020152\\web.debug.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{40ea2e6b-2121-4bb8-a43e-c83c04b51041}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "SwaggerConfig.cs",
+              "DocumentMoniker": "C:\\web_api_1771020152\\web_api_1771020152\\App_Start\\SwaggerConfig.cs",
+              "RelativeDocumentMoniker": "web_api_1771020152\\App_Start\\SwaggerConfig.cs",
+              "ToolTip": "C:\\web_api_1771020152\\web_api_1771020152\\App_Start\\SwaggerConfig.cs",
+              "RelativeToolTip": "web_api_1771020152\\App_Start\\SwaggerConfig.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-13T09:08:34.146Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "202601130852135_AddDateToReservation.cs",
+              "DocumentMoniker": "C:\\web_api_1771020152\\web_api_1771020152\\Migrations\\202601130852135_AddDateToReservation.cs",
+              "RelativeDocumentMoniker": "web_api_1771020152\\Migrations\\202601130852135_AddDateToReservation.cs",
+              "ToolTip": "C:\\web_api_1771020152\\web_api_1771020152\\Migrations\\202601130852135_AddDateToReservation.cs",
+              "RelativeToolTip": "web_api_1771020152\\Migrations\\202601130852135_AddDateToReservation.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-13T08:52:18.09Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ReservationsController.cs",
+              "DocumentMoniker": "C:\\web_api_1771020152\\web_api_1771020152\\Controllers\\ReservationsController.cs",
+              "RelativeDocumentMoniker": "web_api_1771020152\\Controllers\\ReservationsController.cs",
+              "ToolTip": "C:\\web_api_1771020152\\web_api_1771020152\\Controllers\\ReservationsController.cs",
+              "RelativeToolTip": "web_api_1771020152\\Controllers\\ReservationsController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-13T08:49:45.753Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "MenuItemsController.cs",
+              "DocumentMoniker": "C:\\web_api_1771020152\\web_api_1771020152\\Controllers\\MenuItemsController.cs",
+              "RelativeDocumentMoniker": "web_api_1771020152\\Controllers\\MenuItemsController.cs",
+              "ToolTip": "C:\\web_api_1771020152\\web_api_1771020152\\Controllers\\MenuItemsController.cs",
+              "RelativeToolTip": "web_api_1771020152\\Controllers\\MenuItemsController.cs",
+              "ViewState": "AgIAADgAAAAAAAAAAAAwwEQAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-13T08:49:24.954Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "WebApiConfig.cs",
+              "DocumentMoniker": "C:\\web_api_1771020152\\web_api_1771020152\\App_Start\\WebApiConfig.cs",
+              "RelativeDocumentMoniker": "web_api_1771020152\\App_Start\\WebApiConfig.cs",
+              "ToolTip": "C:\\web_api_1771020152\\web_api_1771020152\\App_Start\\WebApiConfig.cs",
+              "RelativeToolTip": "web_api_1771020152\\App_Start\\WebApiConfig.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAA/wBgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-13T08:46:26.903Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "wtAuthenticationAttribute.cs",
+              "DocumentMoniker": "C:\\web_api_1771020152\\web_api_1771020152\\Filters\\wtAuthenticationAttribute.cs",
+              "RelativeDocumentMoniker": "web_api_1771020152\\Filters\\wtAuthenticationAttribute.cs",
+              "ToolTip": "C:\\web_api_1771020152\\web_api_1771020152\\Filters\\wtAuthenticationAttribute.cs",
+              "RelativeToolTip": "web_api_1771020152\\Filters\\wtAuthenticationAttribute.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAAwBcAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-13T08:45:34.651Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "C:\\web_api_1771020152\\web_api_1771020152\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "web_api_1771020152\\Controllers\\AuthController.cs",
+              "ToolTip": "C:\\web_api_1771020152\\web_api_1771020152\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "web_api_1771020152\\Controllers\\AuthController.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAAcAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-13T08:39:11.489Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "LoginResponseDto.cs",
+              "DocumentMoniker": "C:\\web_api_1771020152\\web_api_1771020152\\Models\\LoginResponseDto.cs",
+              "RelativeDocumentMoniker": "web_api_1771020152\\Models\\LoginResponseDto.cs",
+              "ToolTip": "C:\\web_api_1771020152\\web_api_1771020152\\Models\\LoginResponseDto.cs",
+              "RelativeToolTip": "web_api_1771020152\\Models\\LoginResponseDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAABMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-13T08:36:21.411Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "RegisterDto.cs",
+              "DocumentMoniker": "C:\\web_api_1771020152\\web_api_1771020152\\Models\\RegisterDto.cs",
+              "RelativeDocumentMoniker": "web_api_1771020152\\Models\\RegisterDto.cs",
+              "ToolTip": "C:\\web_api_1771020152\\web_api_1771020152\\Models\\RegisterDto.cs",
+              "RelativeToolTip": "web_api_1771020152\\Models\\RegisterDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-13T08:35:51.783Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "LoginDto.cs",
+              "DocumentMoniker": "C:\\web_api_1771020152\\web_api_1771020152\\Models\\LoginDto.cs",
+              "RelativeDocumentMoniker": "web_api_1771020152\\Models\\LoginDto.cs",
+              "ToolTip": "C:\\web_api_1771020152\\web_api_1771020152\\Models\\LoginDto.cs",
+              "RelativeToolTip": "web_api_1771020152\\Models\\LoginDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-13T08:34:51.29Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "202601130804391_InitialCreate.cs",
+              "DocumentMoniker": "C:\\web_api_1771020152\\web_api_1771020152\\Migrations\\202601130804391_InitialCreate.cs",
+              "RelativeDocumentMoniker": "web_api_1771020152\\Migrations\\202601130804391_InitialCreate.cs",
+              "ToolTip": "C:\\web_api_1771020152\\web_api_1771020152\\Migrations\\202601130804391_InitialCreate.cs",
+              "RelativeToolTip": "web_api_1771020152\\Migrations\\202601130804391_InitialCreate.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-13T08:04:53.798Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Configuration.cs",
+              "DocumentMoniker": "C:\\web_api_1771020152\\web_api_1771020152\\Migrations\\Configuration.cs",
+              "RelativeDocumentMoniker": "web_api_1771020152\\Migrations\\Configuration.cs",
+              "ToolTip": "C:\\web_api_1771020152\\web_api_1771020152\\Migrations\\Configuration.cs",
+              "RelativeToolTip": "web_api_1771020152\\Migrations\\Configuration.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAFAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-13T08:04:16.503Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Table.cs",
+              "DocumentMoniker": "C:\\web_api_1771020152\\web_api_1771020152\\Models\\Table.cs",
+              "RelativeDocumentMoniker": "web_api_1771020152\\Models\\Table.cs",
+              "ToolTip": "C:\\web_api_1771020152\\web_api_1771020152\\Models\\Table.cs",
+              "RelativeToolTip": "web_api_1771020152\\Models\\Table.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-13T08:02:29.531Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "ReservationItem.cs",
+              "DocumentMoniker": "C:\\web_api_1771020152\\web_api_1771020152\\Models\\ReservationItem.cs",
+              "RelativeDocumentMoniker": "web_api_1771020152\\Models\\ReservationItem.cs",
+              "ToolTip": "C:\\web_api_1771020152\\web_api_1771020152\\Models\\ReservationItem.cs",
+              "RelativeToolTip": "web_api_1771020152\\Models\\ReservationItem.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAUwBoAAABCAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-13T08:02:16.69Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Reservation.cs",
+              "DocumentMoniker": "C:\\web_api_1771020152\\web_api_1771020152\\Models\\Reservation.cs",
+              "RelativeDocumentMoniker": "web_api_1771020152\\Models\\Reservation.cs",
+              "ToolTip": "C:\\web_api_1771020152\\web_api_1771020152\\Models\\Reservation.cs",
+              "RelativeToolTip": "web_api_1771020152\\Models\\Reservation.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-13T08:02:05.91Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "MenuItem.cs",
+              "DocumentMoniker": "C:\\web_api_1771020152\\web_api_1771020152\\Models\\MenuItem.cs",
+              "RelativeDocumentMoniker": "web_api_1771020152\\Models\\MenuItem.cs",
+              "ToolTip": "C:\\web_api_1771020152\\web_api_1771020152\\Models\\MenuItem.cs",
+              "RelativeToolTip": "web_api_1771020152\\Models\\MenuItem.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAA7wB0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-13T08:01:54.079Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Customer.cs",
+              "DocumentMoniker": "C:\\web_api_1771020152\\web_api_1771020152\\Models\\Customer.cs",
+              "RelativeDocumentMoniker": "web_api_1771020152\\Models\\Customer.cs",
+              "ToolTip": "C:\\web_api_1771020152\\web_api_1771020152\\Models\\Customer.cs",
+              "RelativeToolTip": "web_api_1771020152\\Models\\Customer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-13T08:01:37.31Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\web_api_1771020152\\web_api_1771020152\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "web_api_1771020152\\Data\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\web_api_1771020152\\web_api_1771020152\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "web_api_1771020152\\Data\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAADwvwkAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-13T07:49:27.307Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "BundleConfig.cs",
+              "DocumentMoniker": "C:\\web_api_1771020152\\web_api_1771020152\\App_Start\\BundleConfig.cs",
+              "RelativeDocumentMoniker": "web_api_1771020152\\App_Start\\BundleConfig.cs",
+              "ToolTip": "C:\\web_api_1771020152\\web_api_1771020152\\App_Start\\BundleConfig.cs",
+              "RelativeToolTip": "web_api_1771020152\\App_Start\\BundleConfig.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-13T07:45:04.461Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "packages.config",
+              "DocumentMoniker": "C:\\web_api_1771020152\\web_api_1771020152\\packages.config",
+              "RelativeDocumentMoniker": "web_api_1771020152\\packages.config",
+              "ToolTip": "C:\\web_api_1771020152\\web_api_1771020152\\packages.config",
+              "RelativeToolTip": "web_api_1771020152\\packages.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2026-01-13T07:34:04.161Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Web.Release.config",
+              "DocumentMoniker": "C:\\web_api_1771020152\\web_api_1771020152\\Web.Release.config",
+              "RelativeDocumentMoniker": "web_api_1771020152\\Web.Release.config",
+              "ToolTip": "C:\\web_api_1771020152\\web_api_1771020152\\Web.Release.config",
+              "RelativeToolTip": "web_api_1771020152\\Web.Release.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2026-01-13T07:34:00.469Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "Web.Debug.config",
+              "DocumentMoniker": "C:\\web_api_1771020152\\web_api_1771020152\\Web.Debug.config",
+              "RelativeDocumentMoniker": "web_api_1771020152\\Web.Debug.config",
+              "ToolTip": "C:\\web_api_1771020152\\web_api_1771020152\\Web.Debug.config",
+              "RelativeToolTip": "web_api_1771020152\\Web.Debug.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2026-01-13T07:33:58.25Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Web.config",
+              "DocumentMoniker": "C:\\web_api_1771020152\\web_api_1771020152\\Web.config",
+              "RelativeDocumentMoniker": "web_api_1771020152\\Web.config",
+              "ToolTip": "C:\\web_api_1771020152\\web_api_1771020152\\Web.config",
+              "RelativeToolTip": "web_api_1771020152\\Web.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2026-01-13T07:32:38.563Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:95:0:{e8034f19-ab72-4f06-83fd-f6832b41aa63}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:1:0:{e8034f19-ab72-4f06-83fd-f6832b41aa63}"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:99:0:{e8034f19-ab72-4f06-83fd-f6832b41aa63}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:102:0:{e8034f19-ab72-4f06-83fd-f6832b41aa63}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:103:0:{e8034f19-ab72-4f06-83fd-f6832b41aa63}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
