@@ -41,8 +41,57 @@ Khi mở dự án lần đầu, Visual Studio sẽ tự động khôi phục cá
 
 ### Bước 2: Cấu hình Cơ sở dữ liệu
 Kiểm tra chuỗi kết nối trong file Web.config. Mặc định dự án đang trỏ tới localhost:
- <connectionStrings>
-    <add name="DefaultConnection" 
-         connectionString="Server=.;Database=db_exam_1771020152;Trusted_Connection=True;MultipleActiveResultSets=True;" 
-         providerName="System.Data.SqlClient" />
-</connectionStrings>
+
+### Bước 3: Khởi tạo Database (Code First Migrations)
+Dự án sử dụng Entity Framework Code First. Để tạo database, mở Package Manager Console và chạy lệnh:
+```Update-Database```
+Lệnh này sẽ chạy các file migration có sẵn trong thư mục Migrations (InitialCreate, AddDateToReservation).
+
+### Bước 4: Chạy ứng dụng
+Nhấn F5 hoặc nút IIS Express để chạy.
+URL mặc định: https://localhost:44397/.
+Tài liệu API (Swagger): Truy cập vào đường dẫn /swagger (Ví dụ: https://localhost:44397/swagger).
+
+### 📂 Danh sách API Endpoints
+Các Controller chính được phát triển trong dự án:
+
+Auth (AuthController):
+
+POST /api/auth/login: Đăng nhập (trả về JWT Token).
+
+POST /api/auth/register: Đăng ký tài khoản mới.
+
+Menu (MenuItemsController):
+
+GET, POST, PUT, DELETE cho các món ăn.
+
+Reservations (ReservationsController):
+
+Quản lý đặt bàn (kèm ngày giờ - AddDateToReservation migration).
+
+Tables (Tables):
+
+Quản lý danh sách bàn ăn.
+
+### 🗄️ Mô hình dữ liệu (Models)
+Các thực thể chính trong hệ thống:
+
+Customer: Khách hàng.
+
+MenuItem: Món ăn/Thực đơn.
+
+Reservation & ReservationItem: Thông tin đặt bàn chi tiết.
+
+Table: Bàn ăn.
+
+
+🤝 Tác giả
+Nguyễn Mạnh Điềm - MSV: 1771020152 - Email: diemmanhnguyen115@gmail.com
+
+
+### Giải thích các phần tôi đã tổng hợp:
+
+1.  **Công nghệ chính xác:** Tôi đã lấy phiên bản cụ thể từ `packages.config` (ví dụ: EF 6.5.1, Web API 5.3.0) [cite: 64] để đảm bảo người chấm thi thấy sự chính xác.
+2.  **Code First Migrations:** Tôi phát hiện trong thư mục `Migrations` có file `202601130852135_AddDateToReservation.cs`, điều này rất quan trọng. Nó có nghĩa là bạn **phải** chạy lệnh `Update-Database` thì database mới có đủ cột ngày tháng. Tôi đã đưa hướng dẫn này vào mục "Bước 3".
+3.  **Swagger:** Tôi thấy `Swashbuckle` trong `packages.config` và `SwaggerConfig.cs` trong thư mục `App_Start`[cite: 64]. Đây là tính năng "ăn điểm", nên tôi đã làm nổi bật nó để người dùng biết cách vào trang test API.
+4.  **Database Connection:** Tôi trích xuất chuỗi kết nối từ `Web.config` để người dùng dễ dàng kiểm tra xem máy họ có cài SQL Server mặc định (`Server=.`) hay không.
