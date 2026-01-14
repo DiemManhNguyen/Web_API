@@ -39,7 +39,7 @@ Khi mở dự án lần đầu, Visual Studio sẽ tự động khôi phục cá
 
 ```powershell Update-Package -Reinstall```
 
-Bước 2: Cấu hình Cơ sở dữ liệu
+### Bước 2: Cấu hình Cơ sở dữ liệu
 Kiểm tra chuỗi kết nối trong file Web.config. Mặc định dự án đang trỏ tới localhost:
  <connectionStrings>
     <add name="DefaultConnection" 
