@@ -37,5 +37,8 @@ Dựa trên tệp `packages.config` và `web_api_1771020152.csproj`:
 ### Bước 1: Cài đặt gói thư viện (Restore NuGet)
 Khi mở dự án lần đầu, Visual Studio sẽ tự động khôi phục các gói. Nếu không, hãy chạy lệnh sau trong **Package Manager Console**:
 
-```powershell
-Update-Package -Reinstall
+```powershell```
+```Update-Package -Reinstall```
+
+Bước 2: Cấu hình Cơ sở dữ liệu
+Kiểm tra chuỗi kết nối trong file Web.config. Mặc định dự án đang trỏ tới localhost:
